@@ -1,0 +1,5 @@
+org\ucll\destination_api\App.class
+org\ucll\destination_api\DestinationDb.class
+org\ucll\destination_api\DestinationController.class
+org\ucll\destination_api\App$ServiceInstanceRestController.class
+org\ucll\destination_api\Destination.class
